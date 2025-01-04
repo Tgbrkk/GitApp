@@ -4,6 +4,7 @@ public class Runner {
         System.out.println("merhabalar");
         //versiyon 2
         System.out.println("nasılsın");
-
+        //versiyon 3
+        System.out.println("teşekkürler");
     }
 }
