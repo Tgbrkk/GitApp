@@ -6,5 +6,7 @@ public class Runner {
         System.out.println("nasılsın");
         //versiyon 3
         System.out.println("teşekkürler");
+
+        //githubda değişiklik yaptım
     }
 }
