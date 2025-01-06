@@ -8,5 +8,6 @@ public class Runner {
         System.out.println("teşekkürler");
 
         //githubda değişiklik yaptım
+        //her gün githuba gir ve işlemleri tekrarla
     }
 }
